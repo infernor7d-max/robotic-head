@@ -29,3 +29,13 @@ After than I started learned C but I later realized i need to learn c++ so I lea
 Lastly my budget is starting from $290.35-$380.31 and I am happy if you guys can give in any range between them because I added that maximum of 380 because of shipping charges and as well as fast delivery so I can start working on my project and also I will give my best in making this project.I mean it is not  about project what matters I think personally that I am learning something useful skills while making this project. My parents even allowed for me to go for china they think it is helpful to really build conversational skills. Sorry I went off the topic and I am also sorry if I made any mistakes that's all.
 Excited working in my dream project,Bye
 
+Important - Project Files Location, Please do not forget to check:
+
+All project files are in different branches:
+
+- **STEP-Files** → CAD / 3D models (.step files)
+- **Wiring-diagram** → KiCad schematic + screenshot
+- **Firmware** → ESP32 code (.ino files)
+- **Bill-of-material(BOM)** → BOM.csv
+- **assembly-link** → Onshape assembly link
+
