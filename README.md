@@ -26,6 +26,8 @@ My wiring screenshot-  <img width="1920" height="1080" alt="Screenshot (515)" sr
 
 After than I started learned C but I later realized i need to learn c++ so I learned basics of C++ for hours but it was not helpful cuz if I do that it will be very slow to make my project So yeah I used AI for learning material and assistance only in this and I am submitting the project fast because I analyzed the shipping time and it is taking too long to have time to build and review my project, that is why I am submitting incomplete project.
 
+My total time while making the project is almost 70 hours in 17 days dang I am locked in and making huge progress.
+
 Lastly my budget is starting from $290.35-$380.31 and I am happy if you guys can give in any range between them because I added that maximum of 380 because of shipping charges and as well as fast delivery so I can start working on my project and also I will give my best in making this project.I mean it is not  about project what matters I think personally that I am learning something useful skills while making this project. My parents even allowed for me to go for china they think it is helpful to really build conversational skills. Sorry I went off the topic and I am also sorry if I made any mistakes that's all.
 Excited working in my dream project,Bye
 
